@@ -1,0 +1,3 @@
+●  32位元安裝unprotected_pdf_32bit, 64位元安裝unprotected_pdf_64bit
+●  直接將要解保全的PDF檔拖曳至藍色的start.exe即可，原目錄將會出現新的同檔名解保全PDF
+●  小提醒 : start.exe可放置任何地方使用
